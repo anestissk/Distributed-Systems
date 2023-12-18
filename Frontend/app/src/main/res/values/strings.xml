@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android User</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="leaderboard_fragment_label">Leaderboard Fragment</string>
+    <string name="lorem_ipsum">
+    Welcome to the Running Session App! \n\nPlease select a username,ip of the server and a port to continue! \n\nThis app allows you to track and analyze your running sessions. Simply select a GPX file to get started and explore various statistics such as average velocity, average time, distance covered and total elevation. Get ready to enhance your running experience with our app!
+    </string>
+</resources>
